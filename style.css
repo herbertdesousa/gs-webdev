@@ -53,10 +53,6 @@ body {
   max-width: 50vw;
 }
 
-.container {
-  background-color: #fff;
-}
-
 .sec-1 main {
   display: flex;
   gap: 32px;
