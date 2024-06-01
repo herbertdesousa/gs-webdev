@@ -103,6 +103,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  background-color: #FAFAFA;
 
   height: 100vh;
   gap: 24px;
@@ -165,5 +166,34 @@ body {
   gap: 16px;
   flex-direction: column;
   align-items: flex-start;
+}
+/*#endregion */
+
+/*#region sec-5 */
+.sec-5 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: hidden;
+  padding: 32px 0;
+  gap: 32px;
+
+  background-image: url("https://placehold.co/800x800");
+  background-size: cover;
+}
+
+.sec-5 main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  gap: 8px;
+  padding: 24px;
+}
+
+.sec-5 img {
+  border-radius: 16px;
 }
 /*#endregion */
