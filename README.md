@@ -5,3 +5,7 @@ de Cashback de Resíduos Sólidos) é uma plataforma que incentiva os cidadãos 
 separarem e reciclarem seus resíduos corretamente. Os participantes que seguirem as
 práticas corretas de coleta seletiva recebem recompensas financeiras, como descontos no
 IPTU ou créditos que podem ser usados em estabelecimentos parceiros. 
+
+## Integrantes
+RM: 558927 - Alexandre Assis
+RM: 555701 - Herbert de Souza
