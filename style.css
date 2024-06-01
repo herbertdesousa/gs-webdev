@@ -97,4 +97,47 @@ body {
 }
 /*#endregion */
 
+/*#region sec-3 */
+.sec-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  height: 100vh;
+  gap: 24px;
+}
+
+.sec-3 ul {
+  display: flex;
+  gap: 24px;
+}
+
+.sec-3 ul li {
+  display: flex;
+  flex-direction: column;
+  max-width: 224px;
+  gap: 8px;
+
+  transition: transform 200ms;
+}
+
+.sec-3 ul li:hover {
+  font-size: 16px;
+  transform: translateY(-24px);
+}
+
+.sec-3 ul img {
+  width: 224px;
+  height: 192px;
+  object-fit: cover;
+}
+
+.sec-3 ul li strong {
+  font-size: 24px;
+  text-align: center;
+  font-weight: 300;
+}
+/*#endregion */
+
 
