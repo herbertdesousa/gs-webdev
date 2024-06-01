@@ -7,5 +7,5 @@ práticas corretas de coleta seletiva recebem recompensas financeiras, como desc
 IPTU ou créditos que podem ser usados em estabelecimentos parceiros. 
 
 ## Integrantes
-RM: 558927 - Alexandre Assis
+RM: 558927 - Alexandre Assis <br />
 RM: 555701 - Herbert de Souza
