@@ -11,13 +11,13 @@ RM: 558927 - Alexandre Assis <br />
 RM: 555701 - Herbert de Souza
 
 ## Todos
-[ ] Criar alertas
-[x] versionamento (git e github)
-[ ] Manipulação de branchs
-[ ] gitpages
-[ ] Efeitos diversos
-[ ] validação (ex. Login)
-[ ] carrosel dinâmicos
-[ ] Manipulação do DOM
-[ ] Responsividade
-[ ] Usar boas práticas de código Web Development utilizado em aulas
+[ ] Criar alertas <br />
+[x] versionamento (git e github) <br />
+[ ] Manipulação de branchs <br />
+[ ] gitpages <br />
+[ ] Efeitos diversos <br />
+[ ] validação (ex. Login) <br />
+[ ] carrosel dinâmicos <br />
+[ ] Manipulação do DOM <br />
+[ ] Responsividade <br />
+[ ] Usar boas práticas de código Web Development utilizado em aulas <br />
