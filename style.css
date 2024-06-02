@@ -239,11 +239,12 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-color: #FAFAFA;
+  background-color: #242427;
+  color: white;
 
   height: 100vh;
   gap: 24px;
-  padding: 32px;
+  padding: 64px;
 }
 
 .sec-6 ul {
