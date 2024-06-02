@@ -13,7 +13,7 @@ RM: 555701 - Herbert de Souza
 ## Todos
 [ ] Criar alertas
 [x] versionamento (git e github)
-[ ] Manipulação de branchs
+[x] Manipulação de branchs
 [ ] gitpages
 [ ] Efeitos diversos
 [ ] validação (ex. Login)
