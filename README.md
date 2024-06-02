@@ -11,12 +11,12 @@ RM: 558927 - Alexandre Assis <br />
 RM: 555701 - Herbert de Souza
 
 ## Todos
-[ ] Criar alertas
+[x] Criar alertas
 [x] versionamento (git e github)
 [x] Manipulação de branchs
 [x] gitpages
-[ ] Efeitos diversos
-[ ] validação (ex. Login)
+[x] Efeitos diversos
+[x] validação (ex. Login)
 [ ] carrosel dinâmicos
 [ ] Manipulação do DOM
 [ ] Responsividade
