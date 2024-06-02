@@ -127,7 +127,8 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-color: #FAFAFA;
+  background-color: #242427;
+  color: white;
 
   height: 100vh;
   gap: 24px;
@@ -141,6 +142,7 @@ body {
 .sec-3 ul li {
   display: flex;
   flex-direction: column;
+  align-items: center;
   max-width: 224px;
   gap: 8px;
 
@@ -153,9 +155,8 @@ body {
 }
 
 .sec-3 ul img {
-  width: 224px;
-  height: 192px;
-  object-fit: cover;
+  width: 120px;
+  height: 120px;
 }
 
 .sec-3 ul li strong {
