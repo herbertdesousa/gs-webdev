@@ -40,6 +40,20 @@ body {
 .button:hover {
   transform: translateY(-5px);
 }
+
+@keyframes breath {
+  from {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(1.2);
+  }
+
+  to {
+    transform: scale(1);
+  }
+}
 /*#endregion*/
 
 /*#region sec-1 */
@@ -48,9 +62,17 @@ body {
   height: 100vh;
 }
 
-.sec-1 img {
-  object-fit: cover;
+.sec-1 .img-container {
   max-width: 50vw;
+  height: 100%;
+  overflow: hidden;
+}
+
+.sec-1 .img-container img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  animation: breath 15s infinite;
 }
 
 .sec-1 main {
