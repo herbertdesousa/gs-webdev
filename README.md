@@ -18,6 +18,6 @@ RM: 555701 - Herbert de Souza
 [x] Efeitos diversos
 [x] validação (ex. Login)
 [ ] carrosel dinâmicos
-[ ] Manipulação do DOM
+[x] Manipulação do DOM
 [ ] Responsividade
 [ ] Usar boas práticas de código Web Development utilizado em aulas
