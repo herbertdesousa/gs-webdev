@@ -9,3 +9,15 @@ IPTU ou créditos que podem ser usados em estabelecimentos parceiros.
 ## Integrantes
 RM: 558927 - Alexandre Assis <br />
 RM: 555701 - Herbert de Souza
+
+## Todos
+[ ] Criar alertas
+[x] versionamento (git e github)
+[ ] Manipulação de branchs
+[ ] gitpages
+[ ] Efeitos diversos
+[ ] validação (ex. Login)
+[ ] carrosel dinâmicos
+[ ] Manipulação do DOM
+[ ] Responsividade
+[ ] Usar boas práticas de código Web Development utilizado em aulas
