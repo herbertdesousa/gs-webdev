@@ -172,9 +172,18 @@ body {
   height: 100vh;
 }
 
-.sec-4 img {
-  object-fit: cover;
+.sec-4 .img-container {
   max-width: 50vw;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+.sec-4 .img-container img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  animation: breath 15s infinite;
 }
 
 .sec-4 main {
