@@ -19,6 +19,5 @@ function submit() {
     return;
   }
 
-  window.history.back();
   alert('Logado! Parabens')
 }
