@@ -14,7 +14,7 @@ RM: 555701 - Herbert de Souza
 [ ] Criar alertas
 [x] versionamento (git e github)
 [x] Manipulação de branchs
-[ ] gitpages
+[x] gitpages
 [ ] Efeitos diversos
 [ ] validação (ex. Login)
 [ ] carrosel dinâmicos
