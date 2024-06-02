@@ -17,7 +17,7 @@ RM: 555701 - Herbert de Souza
 [x] gitpages
 [x] Efeitos diversos
 [x] validação (ex. Login)
-[ ] carrosel dinâmicos
+[x] carrosel dinâmicos
 [x] Manipulação do DOM
-[ ] Responsividade
-[ ] Usar boas práticas de código Web Development utilizado em aulas
+[x] Responsividade
+[x] Usar boas práticas de código Web Development utilizado em aulas
