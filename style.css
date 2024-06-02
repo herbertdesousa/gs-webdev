@@ -212,8 +212,10 @@ body {
   padding: 32px 0;
   gap: 32px;
 
-  background-image: url("https://placehold.co/800x800");
+  background-image: url("imgs/sec-5.jpg");
   background-size: cover;
+
+  color: white;
 }
 
 .sec-5 main {
